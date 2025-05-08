@@ -10,7 +10,7 @@ This project analyzes global COVID-19 trends using data from [Our World in Data]
 ## Output Files Handling
 For Jupyter notebook projects, we recommend this approach for output files:
 
-1. **Dynamic Generation** (Preferred):
+1. **Dynamic Generation**:
    - All plots and outputs are generated when you run the notebook
    - Output directory (`/outputs`) is excluded from Git (via `.gitignore`)
    - To get the outputs:
@@ -19,7 +19,7 @@ For Jupyter notebook projects, we recommend this approach for output files:
      ```
      Then run all cells
 
-2. **Example Outputs** (Optional):
+2. **Example Outputs**:
    - Selected sample plots are available in `/docs/examples/`
    - These demonstrate expected outputs without committing all generated files
 
