@@ -1,0 +1,7 @@
+# Updated requirements.txt
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+jupyter>=1.0.0
+plotly>=5.0.0
+python-dateutil>=2.8.0  # Required for pandas
